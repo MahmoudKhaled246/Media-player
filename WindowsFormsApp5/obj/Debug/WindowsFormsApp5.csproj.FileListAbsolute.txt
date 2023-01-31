@@ -1,0 +1,15 @@
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\bin\Debug\Interop.WMPLib.dll
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\bin\Debug\AxInterop.WMPLib.dll
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\Interop.WMPLib.dll
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\AxInterop.WMPLib.dll
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.ResolveComReference.cache
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Media.resources
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\Mahmoud\Projects\WindowsFormsApp5-master\WindowsFormsApp5-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
